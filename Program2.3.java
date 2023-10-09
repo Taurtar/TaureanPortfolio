@@ -1,4 +1,4 @@
-/*import java.time.*;
+import java.time.*;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
 class Main{
@@ -59,7 +59,7 @@ class Day{
         this.Nextday = Nextday;
         System.out.println("The next day is: ");
         return Nextday;
-    }*/
+    }
     /*String previousDay(String input){
         String strDay = input.substring(0, 2);
         int dayConversion = Integer.valueOf(strDay);
