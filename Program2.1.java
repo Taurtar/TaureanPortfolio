@@ -1,4 +1,4 @@
-/*import java.util.*;
+import java.util.*;
 class Main{
     public static void main(String[] args){
         //Write a program that can convert any decimal integers to binary format.
@@ -13,4 +13,3 @@ class Main{
         console.close();
     }
 }
-*/
