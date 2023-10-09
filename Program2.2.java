@@ -1,4 +1,4 @@
-/*import java.util.*; 
+import java.util.*; 
 class Main {
     public static void main(String[] args){
         Random random = new Random();
@@ -20,4 +20,3 @@ class Main {
         System.out.println(" YOU WIN!!! It took you " + tries + " tries");
     }
 }
-*/
